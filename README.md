@@ -1,6 +1,6 @@
 <p align="center">
 
-Hi, I am Hrishikesh Vikram.
+Hi I am Hrishikesh Vikram.
 A Recent Graduate from UAB.
 
 </p>
